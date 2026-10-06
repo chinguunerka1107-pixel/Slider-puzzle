@@ -1,0 +1,5 @@
+Erdenet = Node("Erdenet" 1026 )
+Sukhbaatar = Node( " Sukhbaatar ", 1177)
+Sainshand = Node("Sainshand", 1582 )
+BaruunUrt = Node("BaruunUrt", 1752)
+Alai = Node( "Altai", )
